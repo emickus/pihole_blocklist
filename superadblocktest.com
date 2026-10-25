@@ -23,3 +23,4 @@ widget.intercom.io
 api.onesignal.com
 dai.google.com
 ssl.p.jwpcdn.com
+app.usercentrics.eu
