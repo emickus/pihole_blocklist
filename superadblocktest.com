@@ -1,0 +1,25 @@
+#
+#
+# superadblocktest.com
+#
+#
+s.youtube.com
+redirector.googlevideo.com
+i.instagram.com
+widgets.pinterest.com
+ngfts.lge.com
+privacyportal.onetrust.com
+consent.cookiebot.com
+consentcdn.cookiebot.com
+cookiebot.com
+consent.trustarc.com
+sdk.privacy-center.org
+cdn.privacy-mgmt.com
+app.usercentrics.eu
+cmp.inmobi.com
+www.awin1.com
+clientstream.launchdarkly.com
+widget.intercom.io
+api.onesignal.com
+dai.google.com
+ssl.p.jwpcdn.com
